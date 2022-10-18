@@ -1,0 +1,23 @@
+{
+    "biases": {
+        "gender": [
+            ["man", "woman"], ["boy", "girl"], ["father", "mother"], ["he", "she"], ["his", "her"], ["himself", "herself"], ["gentleman", "lady"], ["brother", "sister"], ["grandfather", "grandmother"], ["son", "daughter"]
+        ],
+        
+        "race": [
+            ["white", "black", "asian", "hispanic"], ["caucasian", "african", "chinese", "latino"]
+        ],
+
+        "religion": [
+            ["muslim", "christian", "jewish", "buddhist"], ["quran", "bible", "torah"], ["imam", "priest", "rabbi", "monk"], ["mosque", "church", "synagogue", "temple"], ["islam", "christianity", "judaism", "buddhism"], ["mohammad", "jesus", "moses", "buddha"], ["muslims", "christians", "jews"]
+        ],
+
+        "age": [
+            ["old", "young"], ["elderly", "youth"], ["adult", "child"], ["senior", "junior"], ["adult", "teenager"]
+        ],
+
+        "sexual orientation": [
+            ["straight", "gay"], ["straight", "lesbian"], ["heterosexual", "homosexual"], ["heterosexual", "bisexual"]
+        ]
+    }
+}
